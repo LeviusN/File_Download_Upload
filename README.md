@@ -18,3 +18,9 @@ node index.js
 ```
 npm install file-saver bootstrap axios cors mysql express-fileupload express
 ```
+
+## Final product
+
+<p align="center">
+<img src=https://user-images.githubusercontent.com/91337423/151706929-ba064f37-62f6-48d6-832a-d983ab1f5256.PNG>
+</p>
