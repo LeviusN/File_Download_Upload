@@ -1,0 +1,50 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.container button{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+
+  color: white;
+  background: #206a5d;
+  border-radius: 5px;
+}
+.bu1{
+display: flex;
+flex-direction: row;
+justify-content: left;
+
+color: white;
+background: #206a5d;
+border-radius: 5px;
+
+}
+
+.upload{
+  background: white;
+  border-radius: 5px;
+}
+
+::-webkit-file-upload-button{
+  color: white;
+  background: #206a5d;
+  border-radius: 5px;
+}
+
+::-webkit-file-upload-button:hover{
+  background: #438a5e;
+}
+
+.thead-dark{
+  background: brown;
+}
